@@ -1,0 +1,19 @@
+<html>
+ <head>
+ </head>
+ <body>
+   Click run button and check the console
+   <script>
+     function test(){
+      
+    let start = performance.now();
+    if (lat > 8 && lat < 13.5 && long > 76 && long < 80) {
+        document.getElementById("sticky").disabled =false;
+    }   
+
+    test();
+    let timeTaken = performance.now() - start;
+    console.log("Total time taken : " + timeTaken + " milliseconds");
+  </script>
+ </body>
+</html>

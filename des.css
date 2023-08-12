@@ -1,0 +1,115 @@
+<style>body {
+    font-family: Arial;
+    background-color: aliceblue;
+}
+
+input {
+    width: 50%;
+    border-radius: 16px;
+    font-family: Arial;
+    font-size: 1.5rem;
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+button {
+    background-color: aliceblue;
+    border-radius: 16px;
+    font-family: Arial;
+    font-size: 1.5rem;
+}
+
+#messages {
+    background-image:
+        url("https://wallpapercave.com/wp/wp5406324.jpg");
+    background-size: 100%;
+    height: 700px;
+    padding: 20px;
+    color: white;
+    border: 2px blue solid;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#messages div {
+    /* width: 30%; */
+    padding: 8px;
+
+        {
+        #border: 2px lightblue solid;
+        #
+    }
+
+    border-radius: 20px;
+    margin: 4px;
+    background-color: darkslateblue;
+    color: aliceblue;
+    font-size: 1.5rem;
+
+        {
+        #display: inline-block;
+        #
+    }
+}
+
+</style><style>body {
+    background-image:
+        url("https://wallpapercave.com/wp/wp5406324.jpg");
+    background-size: 100%;
+    font-family: Arial;
+    background-color: aliceblue;
+    font-size: 1.5rem;
+    color: white;
+}
+
+input {
+        {
+        #width: 50%;
+        #
+    }
+
+    border-radius: 16px;
+    font-family: Arial;
+    font-size: 1.5rem;
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+button {
+    background-color: aliceblue;
+    border-radius: 16px;
+    font-family: Arial;
+    font-size: 1.5rem;
+}
+
+/* TABLE PROPERTIES */
+td {
+    padding: 10px 15px 10px 15px;
+    font-size: 2rem;
+
+        {
+        #border: 2px solid whitesmoke;
+        #
+    }
+
+    border-radius: 10px;
+}
+
+tr:hover {
+    background-color: blue;
+}
+
+table {
+    color: white;
+
+        {
+        #border: 3px solid darkslateblue;
+        #
+    }
+
+    border-radius: 10px;
+    border-collapse: collapse;
+    background-color: darkslateblue;
+}
+
+</style>
